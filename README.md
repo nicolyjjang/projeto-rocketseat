@@ -19,7 +19,8 @@ Programa exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnolog
 <br>
 
 <p align="center">
-   <img alt="License" src= ![preview-projeto]"(https://github.com/nicolyjjang/projeto-rocketseat/assets/107158277/6e5fe803-b615-4d0d-9c21-70a9391b9244)">
+   
+![preview-projeto](https://github.com/nicolyjjang/projeto-rocketseat/assets/107158277/ac637044-e67b-4e4d-997e-b80abad79b36)
 
 </p>
 
